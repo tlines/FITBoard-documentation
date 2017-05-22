@@ -1,7 +1,6 @@
-# System Architecture Overview
+# System Requirements Overview
 
-This documents the decisions made concerning the tools and construction of the fitboard system. It does not document how these tools
-function. This document is broken down based on needs of the system.
+This documents the decisions made concerning the devices and core components of the fitboard system. It does not provide in depth explanation of how these tools function. This document is broken down based on the requirements of the system.
 
 #
 
