@@ -2,9 +2,9 @@
 
 The FITBoard (also "fitboard") project is designed for making physical therapy more fun and more measurable.
 
-**For Patients: ** The target users of the fitboard are children. For children, the fitboard presents a fun gaming interface for the entire body. Children can use their hands, feet, and heads to interact with many games.
+**For Patients:** The target users of the fitboard are children. For children, the fitboard presents a fun gaming interface for the entire body. Children can use their hands, feet, and heads to interact with many games.
 
-**For Therapists: ** The fitboard app allows the therapist with a way to turn exercises into fun. The app provides a fitboard configuration screen which allows the therapist to configure the buttons to best suit the current therapy exercise as well as metrics to follow a patient's progress.
+**For Therapists:** The fitboard app allows the therapist with a way to turn exercises into fun. The app provides a fitboard configuration screen which allows the therapist to configure the buttons to best suit the current therapy exercise as well as metrics to follow a patient's progress.
 
 The documentation for this system is provided below:
 
