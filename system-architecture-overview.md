@@ -5,11 +5,11 @@ function. This document is broken down based on needs of the system.
 
 #
 
-### Breakdown
+### Breakdown:
 
 **System Goal:** Pressing a button on the Fitboard results in an action in the game.
 
-**Goal Requires:** 
+**Goal Requirements:** 
 
 - [Engine for Games and App](#requirement-engine-for-games-and-app)
 - [Scripting language for game control](#requirement-scripting-language-for-game-control)
