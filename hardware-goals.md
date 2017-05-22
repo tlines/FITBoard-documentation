@@ -1,0 +1,3 @@
+# Hardware Goals
+
+TODO
