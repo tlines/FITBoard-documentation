@@ -1,6 +1,6 @@
 # FITBoard Documentation
 
-The FITBoard (also "fitboard") project is designed for making physical therapy more fun and more measurable.
+The FITBoard (also "fitboard") project is designed to make physical therapy more fun, adaptable, and measurable.
 
 **For Patients:** The target users of the fitboard are children. For children, the fitboard presents a fun gaming interface for the entire body. Children can use their hands, feet, and heads to interact with many games.
 
@@ -11,7 +11,7 @@ The documentation for this system is provided below:
 ### For a General Understanding:
 
 1. To see a general overview of the entire FITBoard system: [System Requirements](system-requirements.md)
-2. To see an overview of the hardware used: [Hardware Overview](hardware-overview.md)
+2. To see an overview of the hardware used: [Hardware Design](hardware-design.md)
 3. To see an overview of the software used: [Software Design](software-design.md)
 
 ### For a Technical Understanding:
@@ -20,3 +20,7 @@ The documentation for this system is provided below:
 2. Hardware protocols TODO?
 3. Software protocols TODO?
 
+### For developers:
+
+1. Software progress and goals: [Software Goals](software-goals.md)
+2. Hardware progress and goals: [Hardware Goals](hardware-goals.md)
