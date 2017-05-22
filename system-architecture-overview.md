@@ -11,11 +11,11 @@ function. This document is broken down based on needs of the system.
 
 **Goal Requires:** 
 
-- [Engine for Games and App](#Requirement-Engine-for-Games-and-App)
-- Scripting language for game control
-- Hardware to relay button presses to computer 
-- Computer input recognition of fitboard
-- Game recognizes input received from fitboard
+- [Engine for Games and App](#requirement-engine-for-games-and-app)
+- [Scripting language for game control](#requirement-scripting-language-for-game-control)
+- [Hardware to relay button presses to computer](#requirement-hardware-to-relay-button-presses-to-computer)
+- [Computer input recognition of fitboard](#requirement-computer-input-recognition-of-fitboard)
+- [Game recognizes input received from fitboard](#requirement-game-recognizes-input-received-from-fitboard)
 
 #
 
@@ -32,7 +32,7 @@ function. This document is broken down based on needs of the system.
 
 #
 
-**Requirement:** Scripting language for game control
+### Requirement: Scripting language for game control
 
 **Options:** Using Unity the options are C#, JavaScript for Unity (UnityScript), and Boo
 
@@ -44,7 +44,7 @@ function. This document is broken down based on needs of the system.
 
 #
 
-**Requirement:** Hardware to relay button presses to computer 
+### Requirement: Hardware to relay button presses to computer
 
 **Decision:** Arduino Mega `// @NickSullivan more info needed`
 
@@ -54,7 +54,7 @@ function. This document is broken down based on needs of the system.
 
 #
 
-** Requirement:** Computer input recognition of fitboard
+### Requirement: Computer input recognition of fitboard
 
 **Decision:** Custom Arduino Driver
 
@@ -63,6 +63,6 @@ function. This document is broken down based on needs of the system.
 
 #
 
-** Requirement:** Game recognizes input received from fitboard
+### Requirement: Game recognizes input received from fitboard
 
 **Decision:** TBD.
