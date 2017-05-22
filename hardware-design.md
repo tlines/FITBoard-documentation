@@ -1,4 +1,6 @@
-# System Overview
+# Hardware Design
+
+TODO Get list of people who contributed and find decisions for these components
 
 This provides an overview of the core software/hardware components and how they interact with each other. It does not include in depth
 information about how the components function.
