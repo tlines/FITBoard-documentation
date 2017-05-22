@@ -1,4 +1,4 @@
-# System Requirements Overview
+# System Requirements
 
 This documents the decisions made concerning the devices and core components of the fitboard system. It does not provide in depth explanation of how these tools function. This document is broken down based on the requirements of the system.
 
