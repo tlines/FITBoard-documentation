@@ -5,7 +5,7 @@ This document provides a bird's eye view of the software design. It provides exp
 ### Contents:
 
 1. [Unity](#unity)
-  - [Game Loop Execution](#game-loop-order-of-execution)
+- - [Game Loop Execution](#game-loop-order-of-execution)
 2. [Custom Arduino Driver](#arduino-driver)
 
 #
@@ -16,9 +16,7 @@ TODO
 
 #### Game Loop Order of Execution:
 
-TODO get this link working:
-
-![Monobehavior Execution img not found](/images/unity/monobehaviour_flowchart.pdf)
+[![Monobehavior Execution img not found](https://docs.unity3d.com/uploads/Main/monobehaviour_flowchart.svg)](https://github.com/ReGameVR/FITBoard-documentation/blob/master/images/unity/monobehaviour_flowchart.pdf)
 
 #
 
