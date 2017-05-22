@@ -11,7 +11,7 @@ function. This document is broken down based on needs of the system.
 
 **Goal Requires:** 
 
-- Engine for Games/App
+- [Engine for Games and App](#Requirement-Engine-for-Games-and-App)
 - Scripting language for game control
 - Hardware to relay button presses to computer 
 - Computer input recognition of fitboard
@@ -19,7 +19,7 @@ function. This document is broken down based on needs of the system.
 
 #
 
-**Requirement:** Engine for Games/App
+### Requirement: Engine for Games and App
 
 **Decision:** Unity Engine
 
