@@ -5,7 +5,7 @@ This document provides a bird's eye view of the software design. It provides exp
 ### Contents:
 
 1. [Unity](#unity)
-- - [Game Loop Execution](#game-loop-order-of-execution)
+  - [Game Loop Execution](#game-loop-order-of-execution)
 2. [Custom Arduino Driver](#arduino-driver)
 
 #
